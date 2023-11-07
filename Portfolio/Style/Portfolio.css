@@ -1,0 +1,52 @@
+.center {
+    margin: auto;
+    width: 50%
+}
+
+ul {
+    list-style-type: none;
+    margin: -10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkolivegreen;
+}
+
+li {
+    float: right;
+}
+li a {
+    display: block;
+    color: white;
+    font-family: "Bookman Old Style";
+    text-align: center;
+    padding: 20px 35px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: darkslategray;
+}
+
+table, th, td {
+    border:1px solid black;
+    background: darkolivegreen;
+    color: white;
+    font-family: "Bookman Old Style";
+}
+
+body {
+    background-image: url("https://cdn-cms.bookingexperts.nl/media/801/29/optimized.jpg");
+}
+
+.left {
+float: left;
+}
+
+a {
+    color: lightblue;
+}
+
+.grid {
+    text-align: right;
+}
+
